@@ -1,0 +1,21 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   justify-content: center;
+   min-height: calc(100vh - 40vh);
+   
+
+
+}
+
+.about p{
+    color:#aaa;
+    margin-bottom: 2em;
+}
+
+.about a{
+    display: block;
+    margin-top: 15px;
+    padding: 10px 15px;
+}
